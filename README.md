@@ -6,7 +6,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=steipete&hide_border=true)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=noeticstech&hide_border=true)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Yo%F0%9F%AB%A1+I'm+Vaibhav+Singh+Kushwaha;PERN-Stack+Developer;UnrealEngine+Enthusiast;Turning+ideas+into+reality;Welcome+to+my+GitHub!+🚀" />
 </h1>
