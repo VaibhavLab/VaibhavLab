@@ -6,9 +6,9 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=noeticstech&hide_border=true)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vaibhavlab&hide_border=true)
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Yo%F0%9F%AB%A1+I'm+Vaibhav+Singh+Kushwaha;PERN-Stack+Developer;AI+Engineer;UnrealEngine+Enthusiast;Turning+ideas+into+reality;Welcome+to+my+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Yo%F0%9F%AB%A1+I'm+Vaibhav+Singh+Kushwaha;AI+Engineer;UnrealEngine+Enthusiast;Turning+ideas+into+reality;Welcome+to+my+GitHub!+🚀" />
 </h1>
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavlab&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
@@ -61,13 +61,13 @@
 <h3>🚀 My Portfolio</h3>
 <p>Projects • Designs • Work</p>
 
-<a href="https://vaibhav-singh-kushwaha.vercel.app/" target="_blank">
+<a href="Vaibhavlab.dev" target="_blank">
   <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-blue?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=noeticstech&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="noeticstech" />
+<img src="https://komarev.com/ghpvc/?username=Vaibhavlab&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="noeticstech" />
 
 <br/><br/>
 
@@ -116,7 +116,7 @@
 <tr>
 
 <td width="30%">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=noeticstech&theme=dark" width="100%"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vaibhavlab&theme=dark" width="100%"/>
 </td>
 
 <td colspan="2" align="center">
