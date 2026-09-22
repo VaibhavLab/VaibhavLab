@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Yo%F0%9F%AB%A1+I'm+Vaibhav+Singh+Kushwaha;AI+Engineer;UnrealEngine+Enthusiast;Turning+ideas+into+reality;Welcome+to+my+GitHub!+🚀" />
 </h1>
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavlab&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavlab&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 
 <h2 align="center">🛠 Technologies & Tools</h2>
 <p align="center">
