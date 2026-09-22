@@ -1,6 +1,6 @@
 <!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noeticstech/noeticstech/main/assets/welcome.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/noeticstech/Vaibhavlab/main/assets/welcome.gif" width="100%" />
 </p>
 -->
 
